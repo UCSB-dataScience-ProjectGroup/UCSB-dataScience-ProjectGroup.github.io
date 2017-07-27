@@ -2,9 +2,11 @@
 
 Website created to supplement the organizational repo. 
 
+Check out: UCSB-dataScience-ProjectGroup.github.io
+
 Created utilizing Bootstrap template.
 
-
+## Theme details
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
 ## Copyright and License
