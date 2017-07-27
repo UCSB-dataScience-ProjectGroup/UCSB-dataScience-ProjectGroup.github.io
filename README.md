@@ -2,7 +2,7 @@
 
 Website created to supplement the organizational repo. 
 
-Check out: UCSB-dataScience-ProjectGroup.github.io
+Check out: https://ucsb-datascience-projectgroup.github.io/
 
 Created utilizing Bootstrap template.
 
